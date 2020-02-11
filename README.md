@@ -1,7 +1,7 @@
 # ImageTool
-(All picture belong to Stephen Dorris)
+(All pictures belong to Stephen Dorris)
 
-imagetool is a package that has model, view and controller packages that allow a user to process and generate new images based on the user specifications. 
+imagetools is a package that has uses an MVC arcitechure for processs and generate new images based on the user specifications. 
 
 ## Model
 
@@ -36,7 +36,7 @@ construct a new model object every time you want to start processing a new image
 ***
 
 ***
-CHANGES MADE IN HW10:
+Newest CHANGES MADE :
 - model now has undo and redo stacks that keep track of 
 operations performed on the image.
 - model can now save and load images, can be initialized as empty.
@@ -195,7 +195,7 @@ void errorOption(String message);
 ```
 
 
-## Batch commands syntax:
+## Batch commands syntax: 
 
 to load a picture 
 
