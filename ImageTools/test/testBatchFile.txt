@@ -1,0 +1,5 @@
+load cat.JPG
+dither
+save cat-dither.jpg
+mosaic 3000
+exit
